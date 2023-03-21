@@ -1,2 +1,3 @@
-# bibtex_filter
-Filter bibtex file for items in a bbl file
+# Bibtex filter
+Filter bibtex file for items in a bbl file.
+
